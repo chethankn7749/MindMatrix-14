@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-54:/layout/activity_income_log.xml",
+        "source": "com.hastakala.shop.app-main-57:/layout/activity_income_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\item_transaction.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\dialog_profile_sheet.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\dialog_profile_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\fragment_quick_bill.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\fragment_quick_bill.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\fragment_stock.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\fragment_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\item_quick_bill_product.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\item_quick_bill_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\item_dashboard_card.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\item_dashboard_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\dialog_stock_editor.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\dialog_stock_editor.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-54:/layout/fragment_profile.xml",
+        "source": "com.hastakala.shop.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\dialog_reset_password.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\dialog_reset_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\fragment_analytics.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\fragment_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\item_stock.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\item_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-mergeDebugResources-54:\\layout\\activity_income_log.xml",
+        "source": "C:\\Users\\cheth\\.gradle\\daemon\\8.7\\com.hastakala.shop.app-main-57:\\layout\\activity_income_log.xml"
+    },
+    {
+        "merged": "com.hastakala.shop.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.hastakala.shop.app-main-57:/layout/activity_main.xml"
+    }
+]

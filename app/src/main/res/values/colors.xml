@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_primary">#6B4A2F</color>
+    <color name="amber_secondary">#C8A46B</color>
+    <color name="artisan_background">#F7F0E4</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="alert_red">#7A3F2A</color>
+    <color name="surface_soft">#EFE2D0</color>
+    <color name="surface_gold">#F4E2BC</color>
+    <color name="text_primary">#2B1D14</color>
+    <color name="text_secondary">#7B6A58</color>
+    <color name="success_green">#6B4A2F</color>
+    <color name="phonepe_deep">#5A3A24</color>
+    <color name="phonepe_mid">#8A633D</color>
+    <color name="phonepe_surface">#FFFDF8</color>
+    <color name="phonepe_surface_alt">#EFE2D0</color>
+    <color name="phonepe_border">#00000000</color>
+    <color name="phonepe_icon_lilac">#E8D8C3</color>
+    <color name="phonepe_icon_gold">#F4E2BC</color>
+    <color name="phonepe_icon_green">#E6DDCF</color>
+    <color name="phonepe_icon_red">#EBD4C7</color>
+    <color name="phonepe_nav_inactive">#9A8B7A</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

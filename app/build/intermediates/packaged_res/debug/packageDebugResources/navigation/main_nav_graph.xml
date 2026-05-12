@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.hastakala.shop.fragments.HomeFragment"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/quickBillFragment"
+        android:name="com.hastakala.shop.fragments.QuickBillFragment"
+        android:label="Quick Bill" />
+    <fragment
+        android:id="@+id/analyticsFragment"
+        android:name="com.hastakala.shop.fragments.AnalyticsFragment"
+        android:label="Analytics" />
+    <fragment
+        android:id="@+id/stockFragment"
+        android:name="com.hastakala.shop.fragments.StockFragment"
+        android:label="Stock" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.hastakala.shop.fragments.ProfileFragment"
+        android:label="Profile" />
+</navigation>

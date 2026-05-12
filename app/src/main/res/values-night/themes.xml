@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HastaKalaShop" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/amber_secondary</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/purple_primary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">#1F1724</item>
+        <item name="colorSurface">#2A2230</item>
+        <item name="toolbarStyle">@style/Widget.HastaKala.Toolbar</item>
+    </style>
+</resources>

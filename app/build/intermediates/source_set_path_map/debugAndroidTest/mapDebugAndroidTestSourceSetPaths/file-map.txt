@@ -1,0 +1,4 @@
+com.hastakala.shop.test.app-androidTest-0 C:\Users\Harsha Kiran H B\Documents\New project\app\build\generated\res\resValues\androidTest\debug
+com.hastakala.shop.test.app-mergeDebugAndroidTestResources-1 C:\Users\Harsha Kiran H B\Documents\New project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hastakala.shop.test.app-mergeDebugAndroidTestResources-2 C:\Users\Harsha Kiran H B\Documents\New project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hastakala.shop.test.app-debugAndroidTest-3 C:\Users\Harsha Kiran H B\Documents\New project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

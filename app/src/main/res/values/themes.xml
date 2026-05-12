@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.HastaKalaShop" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/purple_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/amber_secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:colorBackground">@color/artisan_background</item>
+        <item name="colorSurface">@color/card_white</item>
+        <item name="android:statusBarColor">@color/purple_primary</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.HastaKala.Rounded</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.HastaKala.Small</item>
+        <item name="toolbarStyle">@style/Widget.HastaKala.Toolbar</item>
+        <item name="materialCardViewStyle">@style/Widget.HastaKala.Card</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.HastaKalaShop.Splash" parent="Theme.HastaKalaShop">
+        <item name="android:windowBackground">@drawable/bg_splash</item>
+    </style>
+
+    <style name="ShapeAppearance.HastaKala.Rounded" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+
+    <style name="ShapeAppearance.HastaKala.Small" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="Widget.HastaKala.Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="android:background">@drawable/bg_toolbar</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="Widget.HastaKala.TextInputLayout" parent="Widget.Material3.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/phonepe_surface</item>
+        <item name="boxStrokeColor">@android:color/transparent</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.HastaKala.Input</item>
+        <item name="hintTextColor">@color/text_secondary</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.HastaKala.Input" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+
+    <style name="Widget.HastaKala.Card" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardBackgroundColor">@color/card_white</item>
+        <item name="strokeColor">@android:color/transparent</item>
+        <item name="strokeWidth">0dp</item>
+        <item name="cardCornerRadius">28dp</item>
+    </style>
+</resources>
